@@ -5,6 +5,7 @@
 - 📫 Reach out to me at:
 - -> LinkedIn: https://www.linkedin.com/in/sampad-adhikary-b09051196/
 - -> Email: sampadadhikary031@gmail.com
+- -> Linktree: https://linktr.ee/sampadadhikary
 
 <!---
 Sampad-Adhikary/Sampad-Adhikary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
