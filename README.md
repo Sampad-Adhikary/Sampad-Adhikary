@@ -1,3 +1,4 @@
+![logo](https://github.com/Sampad-Adhikary/Sampad-Adhikary/blob/main/Sampad%20Adhikary.png)
 <h1 align="center">Hi 👋, I'm Sampad Adhikary</h1>
 <h3 align="center">I Design and Develop.</h3>
 
