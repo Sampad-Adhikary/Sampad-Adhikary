@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad-adhikary&show_icons=true&locale=en" alt="sampad-adhikary" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad-adhikary&" alt="sampad-adhikary" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad-adhikary&" alt="sampad-adhikary" /></p>
