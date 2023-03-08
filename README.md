@@ -33,6 +33,6 @@
 <hr>
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampad-adhikary&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="sampad-adhikary" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad-adhikary&show_icons=true&locale=en&theme=gruvbox" alt="sampad-adhikary" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad-adhikaryPAT_1&show_icons=true&locale=en&theme=gruvbox" alt="sampad-adhikary" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad-adhikary&theme=gruvbox" alt="sampad-adhikary" /></p>
