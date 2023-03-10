@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Learning Advanced DSA**
 
-- 👨‍💻 My Porfolio: [https://linktr.ee/sampadadhikary](https://sampadadhikary.cyclic.app/)
+- 👨‍💻 My Porfolio: [sampad's portfolio](https://sampadadhikary.cyclic.app/)
 
 - 💬 Ask me about: **Flutter, Frontend Development**
 
