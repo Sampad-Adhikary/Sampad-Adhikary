@@ -35,6 +35,6 @@
 
 <p align = "center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sampad-adhikary&show_icons=true&locale=en&theme=gruvbox" alt="sampad-adhikary" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sampad-adhikary)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sampad-adhikary)](https://git.io/streak-stats) -->
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=sampad-adhikary&theme=gruvbox" alt="sampad-adhikary" /></p>
