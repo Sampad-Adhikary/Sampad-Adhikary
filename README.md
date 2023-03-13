@@ -35,4 +35,4 @@
 
 <p align = "center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sampad-adhikary&show_icons=true&locale=en&theme=gruvbox" alt="sampad-adhikary" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad-adhikary&theme=gruvbox" alt="sampad-adhikary" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=sampad-adhikary&theme=gruvbox" alt="sampad-adhikary" /></p>
