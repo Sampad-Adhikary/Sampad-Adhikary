@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **<a href="https://mern-contacts-app.vercel.app/" target="blank">Contacts App</a>**
 
-- 🌱 I’m currently learning **Web 3, Advanced DSA**
+- 🌱 I’m currently learning **Web 3 & Advanced DSA**
 
 - 🤝 I’m looking for help with **Learning Advanced DSA**
 
