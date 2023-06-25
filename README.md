@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampad-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sampad-adhikary" /> </p>
 
-- 🔭 I’m currently working on **<a href="https://mern-contacts-app.vercel.app/" target="blank">Contacts App</a>**
+- 🔭 I’m currently working on ** Building Web3 Applications**
 
 - 🌱 I’m currently learning **Web 3 & Advanced DSA**
 
