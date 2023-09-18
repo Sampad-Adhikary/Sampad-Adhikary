@@ -16,7 +16,7 @@
 
 - 📫 Reach me at: **sampadadhikary031@gmail.com**
 
-- 📄 Here's My resume: [Sampad's Resume](https://drive.google.com/file/d/1j0R8-VSkl5T7xEBFvZvxpEBwlTEFF4s1/view?usp=sharing)
+- 📄 Here's My resume: [Sampad's Resume](https://drive.google.com/drive/folders/15NJjqL5Xsnc5Jo_Kkslm7Hi9SEcFJg5D)
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
