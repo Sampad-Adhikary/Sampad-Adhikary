@@ -4,15 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampad-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sampad-adhikary" /> </p>
 
-- 🔭 I’m currently working on ** Building Web3 Applications**
-
-- 🌱 I’m currently learning **Web 3 & Advanced DSA**
-
-- 🤝 I’m looking for help with **Learning Advanced DSA**
-
 - 👨‍💻 My Porfolio: [sampad's portfolio](https://sampadxadhikary.xyz/)
 
-- 💬 Ask me about: **Flutter, Frontend Development**
+- 💬 Ask me about: **Backend Development, Product Building, AI Agents, Edge AI**
 
 - 📫 Reach me at: **sampadadhikary031@gmail.com**
 
