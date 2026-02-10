@@ -1,16 +1,38 @@
 ![logo](https://github.com/Sampad-Adhikary/Sampad-Adhikary/blob/main/Sampad%20Adhikary.png)
 <h1 align="center">Hi 👋, I'm Sampad Adhikary</h1>
-<h2 align="center">I Build Products 0 -> 1.</h2>
+<h3 align="center">Software Engineer | AI & Distributed Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sampad-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sampad-adhikary" /> </p>
+<p align="center">
+  <em>Building <b>Agentic AI Platforms</b> and <b>High-Performance Edge pipelines</b>. <br>
+  Security-first engineering mindset (<b>BlackHat USA '24 Speaker</b>, <b>CompTIA Sec+</b>).</em>
+</p>
 
-- 👨‍💻 My Porfolio: [sampad's portfolio](https://sampadxadhikary.xyz/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sampad-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sampad-adhikary" />
+</p>
 
-- 💬 Ask me about: **Backend Development, Product Building, AI Agents, Edge AI**
+---
 
-- 📫 Reach me at: **sampadadhikary031@gmail.com**
+- 🔭 **I’m currently working on:** 
+  - **Agentic AI:** Orchestrating Multi-Agent systems using **Google ADK** & **MCP** (Model Context Protocol).
+  - **Edge AI:** Building real-time video analytics pipelines on **NVIDIA Jetson** using **DeepStream** (Python/C++).
 
-- 📄 Here's My resume: [Sampad's Resume (PDF)](https://sampad-portfolio.s3.eu-north-1.amazonaws.com/Sampad-Portfolio-Files/Sampad+Resume.pdf)
+- 🧠 **Core Stack:** 
+  - **Languages:** Python (Asyncio), C++, SQL.
+  - **Infrastructure:** Docker, Redis, Celery, ClickHouse, Google Cloud.
+
+- 💬 **Ask me about:** 
+  - **Agent Orchestration** (RAG, Tool Use, Memory).
+  - **Embedded Vision** (Optimizing inference on constrained hardware).
+  - **Backend Scaling** (Handling high-throughput data ingestion).
+
+---
+
+<p align="center">
+  <a href="https://sampadxadhikary.xyz/"><b>👨‍💻 Portfolio</b></a> • 
+  <a href="https://sampad-portfolio.s3.eu-north-1.amazonaws.com/Sampad-Portfolio-Files/Sampad+Resume.pdf"><b>📄 Download Resume</b></a> • 
+  <a href="mailto:sampadadhikary031@gmail.com"><b>📫 Email Me</b></a>
+</p>
 
 
 <h3 align="left">My Social Media:</h3>
