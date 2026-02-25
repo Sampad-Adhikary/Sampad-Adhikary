@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <a href="https://sampadxadhikary.xyz/"><b>👨‍💻 Portfolio</b></a> • 
+  <a href="https://sampadbuilds.xyz/"><b>👨‍💻 Portfolio</b></a> • 
   <a href="https://sampad-portfolio.s3.eu-north-1.amazonaws.com/Sampad-Portfolio-Files/Sampad+Resume.pdf"><b>📄 Download Resume</b></a> • 
   <a href="mailto:sampadadhikary031@gmail.com"><b>📫 Email Me</b></a>
 </p>
