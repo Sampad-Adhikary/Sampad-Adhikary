@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://sampadbuilds.xyz/"><b>👨‍💻 Portfolio</b></a> • 
-  <a href="https://sampad-portfolio.s3.eu-north-1.amazonaws.com/Sampad-Portfolio-Files/Sampad+Resume.pdf"><b>📄 Download Resume</b></a> • 
+  <a href="https://docs.google.com/document/d/1jQfSzJtg3sJBgpRGWiA9K47tW-g3EKxTUaNYLoxabyU/edit?usp=sharing"><b>📄 Download Resume</b></a> • 
   <a href="mailto:sampadadhikary031@gmail.com"><b>📫 Email Me</b></a>
 </p>
 
